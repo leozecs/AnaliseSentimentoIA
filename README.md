@@ -15,8 +15,8 @@ Durante esse projeto, entendi como funciona:
 
 ## 📸 Prints do processo
 
-![Exemplo IA analisando](./prints/1e2.png)
-![Resultados de sentimento](./prints/5e6.png)
+![Exemplo IA analisando](./prints/1e2.jpeg)
+![Resultados de sentimento](./prints/5e6.jpeg)
 
 ## 🤖 Possibilidades futuras
 
